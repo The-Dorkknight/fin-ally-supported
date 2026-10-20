@@ -1,0 +1,10 @@
+name: Prior art or correction
+description: Earlier work I missed, or something in the paper that is wrong
+labels: [prior-art]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What and where (link, date, section of the paper)
+    validations:
+      required: true

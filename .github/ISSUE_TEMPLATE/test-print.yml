@@ -1,0 +1,27 @@
+name: Test print results
+description: You printed the test plan (section 8). Thank you!
+labels: [test-print]
+body:
+  - type: input
+    id: printer
+    attributes:
+      label: Printer, nozzle, filament
+      placeholder: Elegoo Neptune 4, 0.4 mm, PLA
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Shark Support version and slicer
+      placeholder: 0.2.0-wip, Cura 5.10
+  - type: textarea
+    id: results
+    attributes:
+      label: Results
+      description: For each of the four prints - finished?, curl or sag of the base, filament and time, time to remove the supports, state of the base afterwards. Photos very welcome.
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: How should you be credited in the next version?

@@ -1,0 +1,11 @@
+{
+  "title": "Fin-ally Supported: Shark-fin supports for long, flat, tilted overhangs. A hobbyist's field guide and a defensive publication",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "Shark-fin supports for FDM printing: thin plates that run downhill under a long, flat, tilted overhang, follow its slope, touch it only at small teeth (two anchor teeth at the low end), stop at 85 % of its height with a blunt flat top, and stand on a crossbar foot and a one-layer brim pad. The paper gives the method in rebuildable detail, the design history including its mistakes, slicer-estimated costs, a test plan, and in section 7 a defensive disclosure of the method and its variations, which are dedicated to the public. Nothing has been printed yet; all numbers come from code, slicer estimates and G-code. Software: https://github.com/The-Dorkknight/cura-shark-support",
+  "creators": [{"name": "Armstrong, Matthew"}],
+  "license": "cc-by-sa-4.0",
+  "keywords": ["3D printing", "FDM", "fused filament fabrication", "support structures", "overhang", "Cura", "defensive publication", "prior art"],
+  "language": "eng",
+  "version": "1.0"
+}
