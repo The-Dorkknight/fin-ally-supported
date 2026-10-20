@@ -1,37 +1,22 @@
+# Made by Repo Pegboard. GitHub reads this file to show "Cite this repository".
 cff-version: 1.2.0
-message: "If you use or build on this work, please cite the paper as below."
-title: "Fin-ally Supported (paper, figures and code)"
-type: software
-version: "1.0"
-date-released: "2026-10-19"
-license: CC-BY-SA-4.0
-url: "https://github.com/The-Dorkknight/fin-ally-supported"
-repository-code: "https://github.com/The-Dorkknight/fin-ally-supported"
+message: "If you use this work, please cite the paper below."
+title: "fin-ally-supported"
 authors:
-  - family-names: Armstrong
-    given-names: Matthew
-    alias: The-Dorkknight
-keywords:
-  - 3D printing
-  - FDM
-  - support structures
-  - overhang
-  - Cura plugin
-  - defensive publication
-  - prior art
+  - family-names: "Armstrong"
+    given-names: "Matthew"
+    alias: "The-Dorkknight"
+repository-code: "https://github.com/The-Dorkknight/fin-ally-supported"
 preferred-citation:
   type: report
   title: "Fin-ally Supported: Shark-fin supports for long, flat, tilted overhangs. A hobbyist's field guide and a defensive publication"
   authors:
-    - family-names: Armstrong
-      given-names: Matthew
-      alias: The-Dorkknight
-  date-published: "2026-10-19"
+    - family-names: "Armstrong"
+      given-names: "Matthew"
+      alias: "The-Dorkknight"
   version: "1.0"
+  date-published: 2026-10-19
+  year: 2026
   url: "https://github.com/The-Dorkknight/fin-ally-supported"
-  abstract: >-
-    Shark-fin supports: thin plates that run downhill under a long, flat, tilted overhang, follow its slope,
-    touch it only at small teeth (two anchor teeth at the low end), stop at 85 % of its height with a blunt
-    flat top, and stand on a crossbar foot and a one-layer brim pad. Includes the method in rebuildable detail,
-    the design history with its mistakes, slicer-estimated costs, a test plan, and a defensive disclosure of the
-    method and its variations, dedicated to the public. Nothing has been printed yet.
+  license: CC-BY-SA-4.0
+  abstract: ">-"

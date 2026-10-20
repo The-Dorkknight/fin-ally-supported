@@ -525,3 +525,13 @@ dedicated to the public as a defensive publication. Not legal advice.
 [materialise]: https://www.materialise.com/en/inspiration/articles/optimal-metal-supports
 [us9469057]: https://patents.justia.com/patent/9469057
 [us9469057g]: https://patents.google.com/patent/US9469057B2/en
+
+## Research paper
+
+**[Fin-ally Supported: Shark-fin supports for long, flat, tilted overhangs. A hobbyist's field guide and a defensive publication](paper/paper.md)** (version 1.0, first published 19 October 2026) · [PDF](paper/fin-ally-supported-v1.0.pdf)
+
+>-
+
+The paper's text and figures: [CC BY-SA 4.0](paper/LICENSE.md)
+
+**How to cite:** Armstrong, M. (2026). *Fin-ally Supported: Shark-fin supports for long, flat, tilted overhangs. A hobbyist's field guide and a defensive publication.* Version 1.0, 19 October 2026. https://github.com/The-Dorkknight/fin-ally-supported
